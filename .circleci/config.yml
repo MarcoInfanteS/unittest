@@ -28,7 +28,7 @@ jobs:
           command: mvn test
       - run:
           name: Mensaje
-          command: echo "Hola"
+          command: echo "
       - run:
           name: Save test results
           command: |
